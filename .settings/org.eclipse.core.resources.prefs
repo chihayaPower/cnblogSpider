@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//cnblogSpider/items.py=utf-8
+encoding//cnblogSpider/pipelines.py=utf-8
+encoding//cnblogSpider/settings.py=utf-8
+encoding//cnblogSpider/spiders/cnblogs_spider.py=utf-8
